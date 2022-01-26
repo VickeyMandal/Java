@@ -1,4 +1,4 @@
-package Array;
+package Questions.Array;
 import java.util.*;
 
 public class MinAndMax {
