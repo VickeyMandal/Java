@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "DS/Queue",
-        "Questions/Examly"
-    ]
+        "DSA",
+        "Questions"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }

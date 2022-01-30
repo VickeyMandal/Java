@@ -1,4 +1,4 @@
-package DS.Queue;
+package Queue;
 
 public class QueueUsingArray {
     private int data[];

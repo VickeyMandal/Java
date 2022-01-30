@@ -1,8 +1,6 @@
-package DS.LinkedList;
+package LinkedList;
 
 import java.util.Scanner;
-
-import javax.swing.SortingFocusTraversalPolicy;
 
 public class LinkedListUse {
 

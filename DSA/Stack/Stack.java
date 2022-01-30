@@ -1,4 +1,4 @@
-package DS.Stack;
+package Stack;
 
 public class Stack{
     private int data[];

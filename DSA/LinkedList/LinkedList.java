@@ -1,4 +1,4 @@
-package DS.LinkedList;
+package LinkedList;
 // A complete working Java program to delete a node in a
 // linked list at a given position
 class LinkedList {
